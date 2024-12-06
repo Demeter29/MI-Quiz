@@ -756,13 +756,13 @@ let data = [
         [4]
     ],
 
-    [
+   [
         "Hogyan lehet megtudni, hogy kinek van győztes stratégiája egy két kimenetelű kétszemélyes játékban?",
         "Nem lehet véges lépésben megválaszolni ezt a kérdést.",
         "Úgy, hogy a minimax algoritmust alkalmazzuk a teljes játékfára úgy, hogy az első játékos győztes állásaihoz +1-et, a vesztes állásaihoz -1-et rendelünk. Ha a gyökérbe felfuttatott érték +1, akkor az első játékosnak van győztes stratégiája, egyébként a másodiknak.",
         "A játékfa leveleit megcímkézzük annak a játékosnak a nevével, aki a levélcsúccsal jelzett állásban nyerni fog. Szintről szintre felfelé haladva az Y játékos szintjén levő csúcs, ha van Y címkéjű gyereke, akkor Y címkét kap; különben a másik játékos nevét írjuk oda. A gyökér címkéje adja meg a választ.",
         "Átalakítjuk a játékfát ÉS/VAGY fává, és ebben keresünk olyan gyökérből induló hiperutat, amely vagy kizárólag az egyik, vagy kizárólag a másik játékos csupa győztes levélcsúcsába vezet",
-        []
+        [2, 3]
     ],
 
     [
