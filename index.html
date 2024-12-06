@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MI Quiz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="wrapper">
+        <div id="quiz">
+          <h1></h1>
+          
+          <p class="question" id="question"></p>
+          
+          <div class="answers">
+            <div id="answer-1"><input type="checkbox" id="answer-1-checkbox" value=1 style="pointer-events: none;"/> <input type="radio" class="answerRadio" name="answers" id="answer-1-radio" value=1 /><span id="answer-1-text"></span></div> 
+            <div id="answer-2"><input type="checkbox" id="answer-2-checkbox" value=2 style="pointer-events: none;"/> <input type="radio" class="answerRadio" name="answers" id="answer-2-radio" value=2 /><span id="answer-2-text"></span></div> 
+            <div id="answer-3"><input type="checkbox" id="answer-3-checkbox" value=3 style="pointer-events: none;"/> <input type="radio" class="answerRadio" name="answers" id="answer-3-radio" value=3 /><span id="answer-3-text"></span></div> 
+            <div id="answer-4"><input type="checkbox" id="answer-4-checkbox" value=4 style="pointer-events: none;"/> <input type="radio" class="answerRadio" name="answers" id="answer-4-radio" value=4 /><span id="answer-4-text"></span></div> 
+          </div> 
+               
+          <h3 id="result">0/0</h3>
+            <button id="check" class="button">Check</button>  
+          
+          <div class="checkAnswers">
+            
+            
+            <div class="checker">
+    
+            </div>
+          </div>
+        </div>
+        <footer>
+            <a href="https://people.inf.elte.hu/g5ajau"><p>by Demi</p></a>
+          </footer> 
+    </div> 
+    
+    
+    <script type="text/javascript" src="data.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
