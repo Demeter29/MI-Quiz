@@ -36,7 +36,12 @@ function loadQuestion(){
   checkButton.innerText = "Check";
 
   resetAll();
-  let randomQuestion = data[Math.floor(Math.random()*data.length)];
+  if(data.length == 0){
+    alert("You're finished with all the questions. Refresh the page to try again.");
+  }
+  let randomIndex = Math.floor(Math.random()*data.length)
+  let randomQuestion = data[randomIndex];
+  data.splice(randomIndex, 1);
 
   correctIndices = randomQuestion[5];
 
