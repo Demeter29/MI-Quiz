@@ -1332,4 +1332,329 @@ let data = [
         [1,3]
     ],
 
+    [
+        "Párosítsd az alábbi fogalmat a kapcsolódó fogalomhoz: hatalmas problématér",
+        "kombinatorikus robbanás",
+        "probléma modell",
+        "intuíció",
+        "MI szkeptikusok",
+        [1]
+    ],
+
+
+    [
+        "Párosítsd az alábbi fogalmat a kapcsolódó fogalomhoz: kínai szoba elmélet",
+        "kombinatorikus robbanás",
+        "probléma modell",
+        "intuíció",
+        "MI szkeptikusok",
+        [4]
+    ],
+
+    [
+        "Párosítsd az alábbi fogalmat a kapcsolódó fogalomhoz: útkeresési feladat",
+        "kombinatorikus robbanás",
+        "probléma modell",
+        "intuíció",
+        "MI szkeptikusok",
+        [2]
+    ],
+
+    [
+        "Párosítsd az alábbi fogalmat a kapcsolódó fogalomhoz: heurisztika",
+        "kombinatorikus robbanás",
+        "probléma modell",
+        "intuíció",
+        "MI szkeptikusok",
+        [3]
+    ],
+
+    [
+        "Párosítsd az alábbi fogalmat a kapcsolódó fogalomhoz: dekompozíciós operátor",
+        "hiperél",
+        "csúcs",
+        "irányított él",
+        "hiperút",
+        [1]
+    ],
+
+    [
+        "Párosítsd az alábbi fogalmat a kapcsolódó fogalomhoz: állapot",
+        "hiperél",
+        "csúcs",
+        "irányított él",
+        "hiperút",
+        [2]
+    ],
+
+    [
+        "Párosítsd az alábbi fogalmat a kapcsolódó fogalomhoz: művelet",
+        "hiperél",
+        "csúcs",
+        "irányított él",
+        "hiperút",
+        [3]
+    ],
+
+    [
+        "Párosítsd az alábbi fogalmat a kapcsolódó fogalomhoz: dekompozíciós folyamat",
+        "hiperél",
+        "csúcs",
+        "irányított él",
+        "hiperút",
+        [4]
+    ],
+
+    [
+        "Párosítsd az alábbi fogalmat a kapcsolódó fogalomhoz: globális munkaterület",
+        "irányított út",
+        "visszalépés",
+        "sorrendi szabály",
+        "mélységi korlát figyelés",
+        [1]
+    ],
+
+    [
+        "Párosítsd az alábbi fogalmat a kapcsolódó fogalomhoz: keresési szabály",
+        "irányított út",
+        "visszalépés",
+        "sorrendi szabály",
+        "mélységi korlát figyelés",
+        [2]
+    ],
+
+    [
+        "Párosítsd az alábbi fogalmat a kapcsolódó fogalomhoz: másodlagos vezérlési stratégia",
+        "irányított út",
+        "visszalépés",
+        "sorrendi szabály",
+        "mélységi korlát figyelés",
+        [3]
+    ],
+
+    [
+        "Párosítsd az alábbi fogalmat a kapcsolódó fogalomhoz: második változat",
+        "irányított út",
+        "visszalépés",
+        "sorrendi szabály",
+        "mélységi korlát figyelés",
+        [4]
+    ],
+
+    [
+        "Párosítsd az alábbi fogalmat a kapcsolódó fogalomhoz: globális munkaterület",
+        "keresőgráf",
+        "kiterjesztés",
+        "szülőcsúcs",
+        "korrektség",
+        [1]
+    ],
+
+    [
+        "Párosítsd az alábbi fogalmat a kapcsolódó fogalomhoz: keresési szabály",
+        "keresőgráf",
+        "kiterjesztés",
+        "szülőcsúcs",
+        "korrektség",
+        [2]
+    ],
+
+    [
+        "Párosítsd az alábbi fogalmat a kapcsolódó fogalomhoz: pointerfüggvény",
+        "keresőgráf",
+        "kiterjesztés",
+        "szülőcsúcs",
+        "korrektség",
+        [3]
+    ],
+
+    [
+        "Párosítsd az alábbi fogalmat a kapcsolódó fogalomhoz: csökkenő kiértékelő függvény",
+        "keresőgráf",
+        "kiterjesztés",
+        "szülőcsúcs",
+        "korrektség",
+        [4]
+    ],
+
+    [
+        "Párosítsd az alábbi fogalmat a kapcsolódó fogalomhoz: mélységi gráfkeresés",
+        "nem-informált gráfkeresés",
+        "optimális megoldás",
+        "Martelli",
+        "zárt csúcsok száma",
+        [1]
+    ],
+
+    [
+        "Párosítsd az alábbi fogalmat a kapcsolódó fogalomhoz: A* algoritmus",
+        "nem-informált gráfkeresés",
+        "optimális megoldás",
+        "Martelli",
+        "zárt csúcsok száma",
+        [2]
+    ],
+
+    [
+        "Párosítsd az alábbi fogalmat a kapcsolódó fogalomhoz: B algoritmus",
+        "nem-informált gráfkeresés",
+        "optimális megoldás",
+        "Martelli",
+        "zárt csúcsok száma",
+        [3]
+    ],
+
+    [
+        "Párosítsd az alábbi fogalmat a kapcsolódó fogalomhoz: memória igény",
+        "nem-informált gráfkeresés",
+        "optimális megoldás",
+        "Martelli",
+        "zárt csúcsok száma",
+        [4]
+    ],
+
+    [
+        "Párosítsd az alábbi fogalmat a kapcsolódó fogalomhoz: negamax algoritmus",
+        "könnyebb implementáció",
+        "kiértékelő függvény tévedése",
+        "megbízhatóbb kiértékelés",
+        "hatákonyabb (sic!) módszer",
+        [1]
+    ],
+
+    [
+        "Párosítsd az alábbi fogalmat a kapcsolódó fogalomhoz: (m, n) átlagoló kiértékelés",
+        "könnyebb implementáció",
+        "kiértékelő függvény tévedése",
+        "megbízhatóbb kiértékelés",
+        "hatákonyabb (sic!) módszer",
+        [2]
+    ],
+
+    [
+        "Párosítsd az alábbi fogalmat a kapcsolódó fogalomhoz: váltakozó mélységű kiértékelés",
+        "könnyebb implementáció",
+        "kiértékelő függvény tévedése",
+        "megbízhatóbb kiértékelés",
+        "hatákonyabb (sic!) módszer",
+        [3]
+    ],
+
+    [
+        "Párosítsd az alábbi fogalmat a kapcsolódó fogalomhoz: alfa-béta algoritmus",
+        "könnyebb implementáció",
+        "kiértékelő függvény tévedése",
+        "megbízhatóbb kiértékelés",
+        "hatákonyabb (sic!) módszer",
+        [4]
+    ],
+
+    [
+        "Párosítsd az alábbi fogalmat a kapcsolódó fogalomhoz: kétpontos keresztezés",
+        "parciális illesztett keresztezés",
+        "fittnesz függvény",
+        "kód",
+        "populáció mérete",
+        [1]
+    ],
+
+    [
+        "Párosítsd az alábbi fogalmat a kapcsolódó fogalomhoz: kiválasztás",
+        "parciális illesztett keresztezés",
+        "fittnesz függvény",
+        "kód",
+        "populáció mérete",
+        [2]
+    ],
+
+    [
+        "Párosítsd az alábbi fogalmat a kapcsolódó fogalomhoz: egyed",
+        "parciális illesztett keresztezés",
+        "fittnesz függvény",
+        "kód",
+        "populáció mérete",
+        [3]
+    ],
+
+    [
+        "Párosítsd az alábbi fogalmat a kapcsolódó fogalomhoz: stratégiai paraméter",
+        "parciális illesztett keresztezés",
+        "fittnesz függvény",
+        "kód",
+        "populáció mérete",
+        [4]
+    ],
+
+    [
+        "Párosítsd az alábbi fogalmat a kapcsolódó fogalomhoz: fa-gráf",
+        "csúcsok összevonása",
+        "MYCIN",
+        "feltételes valószínűség",
+        "véges körmentes gráf",
+        [1]
+    ],
+
+    [
+        "Párosítsd az alábbi fogalmat a kapcsolódó fogalomhoz: heurisztikus módszer",
+        "csúcsok összevonása",
+        "MYCIN",
+        "feltételes valószínűség",
+        "véges körmentes gráf",
+        [2]
+    ],
+
+    [
+        "Párosítsd az alábbi fogalmat a kapcsolódó fogalomhoz: bizonytalan következmény",
+        "csúcsok összevonása",
+        "MYCIN",
+        "feltételes valószínűség",
+        "véges körmentes gráf",
+        [3]
+    ],
+
+    [
+        "Párosítsd az alábbi fogalmat a kapcsolódó fogalomhoz: valószínűségi háló",
+        "csúcsok összevonása",
+        "MYCIN",
+        "feltételes valószínűség",
+        "véges körmentes gráf",
+        [4]
+    ],
+
+    [
+        "Párosítsd az alábbi fogalmat a kapcsolódó fogalomhoz: felügyelt tanulás",
+        "tanító minták elvárt kimenete",
+        "2-es norma",
+        "véletlen erdő",
+        "osztályozási feladat",
+        [1]
+    ],
+
+    [
+        "Párosítsd az alábbi fogalmat a kapcsolódó fogalomhoz: kereszt entrópia",
+        "tanító minták elvárt kimenete",
+        "2-es norma",
+        "véletlen erdő",
+        "osztályozási feladat",
+        [2]
+    ],
+
+    [
+        "Párosítsd az alábbi fogalmat a kapcsolódó fogalomhoz: döntési fa",
+        "tanító minták elvárt kimenete",
+        "2-es norma",
+        "véletlen erdő",
+        "osztályozási feladat",
+        [3]
+    ],
+
+    [
+        "Párosítsd az alábbi fogalmat a kapcsolódó fogalomhoz: k-közép módszer",
+        "tanító minták elvárt kimenete",
+        "2-es norma",
+        "véletlen erdő",
+        "osztályozási feladat",
+        [4]
+    ],
+
 ]
